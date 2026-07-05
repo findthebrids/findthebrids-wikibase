@@ -1,0 +1,4 @@
+site_name: Find the Brids wiki
+nav:
+  - Home: index.md
+theme: readthedocs
