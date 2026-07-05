@@ -18,7 +18,7 @@ jobs:
       - name: Checkout destination
         uses: actions/checkout@v4
         with:
-          repository: USER/other-repo
+          repository: findthebrids/findthebrids-wiki
           token: ${{ secrets.SYNC_TOKEN }}
           path: dest
 
