@@ -1,4 +1,9 @@
 site_name: Find the Brids wiki
 nav:
   - Home: index.md
+  - Brids: Brids.md
+  - Brids:
+    - Brid: Brid.md
+    - Omnimagical Brid: "Omnimagical Brid.md"
+    - Green Brid: "Green Brid.md"
 theme: readthedocs
