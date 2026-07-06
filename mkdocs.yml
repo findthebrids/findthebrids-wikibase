@@ -3,7 +3,7 @@ nav:
   - Home: index.md
   - Brids: Brids.md
   - Brids:
-    - Brid: Brid.md
+    - BridOverview: BridOverview.md
     - Omnimagical Brid: "Omnimagical Brid.md"
     - Green Brid: "Green Brid.md"
 theme: darkly
