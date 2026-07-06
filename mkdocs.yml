@@ -6,4 +6,4 @@ nav:
     - Brid: Brid.md
     - Omnimagical Brid: "Omnimagical Brid.md"
     - Green Brid: "Green Brid.md"
-theme: readthedocs
+theme: darkly

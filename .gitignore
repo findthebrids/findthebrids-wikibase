@@ -1,2 +1,5 @@
 # Ignore kate tempfiles
 *.kate-swp
+
+# Ignore mkdocs site folder from building
+site/
