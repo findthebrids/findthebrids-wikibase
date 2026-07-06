@@ -3,7 +3,7 @@ nav:
   - Home: index.md
   - Brids: Brids.md
   - Brids:
-    - BridOverview: BridOverview.md
+    - Brid Overview: BridOverview.md
     - Brid: Brid.md
     - Blue Brid: "Blue Brid.md"
     - Candy Cane: "Candy Cane Brid.md"
