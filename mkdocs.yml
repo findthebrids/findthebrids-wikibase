@@ -4,6 +4,12 @@ nav:
   - Brids: Brids.md
   - Brids:
     - BridOverview: BridOverview.md
-    - Omnimagical Brid: "Omnimagical Brid.md"
+    - Blue Brid: "Blue Brid.md"
+    - Candy Cane: "Candy Cane Brid.md"
+    - Ceiling Fan: "Ceiling Fan Brid.md"
     - Green Brid: "Green Brid.md"
+    - Helpless Brid: "Helpless Brid.md"
+    - Omnimagical Brid: "Omnimagical Brid.md"
+    - Tree Brid: "Tree Brid.md"
+    - Upside-Down Brid: "Upside-Down Brid.md"
 theme: darkly
