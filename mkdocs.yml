@@ -1,7 +1,6 @@
 site_name: Find the Brids wiki
 nav:
   - Home: index.md
-  - Brid Overview: BridOverview.md
   - Brids:
     - Brid Overview: BridOverview.md
     - Brid: Brid.md
