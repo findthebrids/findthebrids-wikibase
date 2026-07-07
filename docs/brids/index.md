@@ -11,6 +11,7 @@
 ### <img style="height: 38.4px" alt="Candy Cane Brid image" src="img/candycanebrid.png"> [Candy Cane Brid](Candy Cane Brid.md)<br>
 ### <img style="height: 38.4px" alt="Ceiling Fan Brid image" src="img/ceilingfanbrid.png"> [Ceiling Fan Brid](Ceiling Fan Brid.md)<br>
 ### <img style="height: 38.4px" alt="Choco Brid image" src="img/chocobrid.png"> [Choco Brid](Choco Brid.md)<br>
+### <img style="height: 38.4px" alt="Corrupted Brid image" src="img/corrupted brid.png"> [Corrupted Brid](Corrupted Brid.md)<br>
 ### <img style="height: 38.4px" alt="Farmer Brid image" src="img/farmerbrid.png"> [Farmer Brid](Farmer Brid.md)<br>
 ### <img style="height: 38.4px" alt="Frosty Brid image" src="img/frostybrid.png"> [Frosty Brid](Frosty Brid.md)<br>
 ### <img style="height: 38.4px" alt="Glitch Brid image" src="img/greenbrid.png"> [Glitch Brid](Glitch Brid.md)<br>
