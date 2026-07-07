@@ -1,6 +1,6 @@
 # Overview
 
-![Brid](img/brid.png) is a brid created by @crLms1n that was added on January 18, 2026.
+![Brid](img/brid.png) is a Brid created by @crLms1n that was added on January 18, 2026.
 
 # Obtainment
 
