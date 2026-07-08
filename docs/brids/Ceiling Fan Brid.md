@@ -1,6 +1,8 @@
 # Overview
 
-![Ceiling Fan Brid](img/ceilingfanbrid.png) Ceiling Fan Brid is a Brid created by @crLms1n that was added on January 18, 2026.
+![Ceiling Fan Brid](img/ceilingfanbrid.png)
+
+Ceiling Fan Brid is a Brid created by @crLms1n that was added on January 18, 2026.
 
 # Obtainment
 

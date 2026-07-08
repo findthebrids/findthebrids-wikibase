@@ -1,6 +1,8 @@
 # Overview
 
-![Pizza Brid](img/pizzabrid.png) Pizza Brid is a Brid created by @crLms1n that was added on January 19, 2026.
+![Pizza Brid](img/pizzabrid.png)
+
+Pizza Brid is a Brid created by @crLms1n that was added on January 19, 2026.
 
 # Obtainment
 

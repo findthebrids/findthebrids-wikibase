@@ -1,6 +1,8 @@
 # Overview
 
-![Choco Brid](img/chocobrid.png) Choco Brid is a Brid created by @LazerAmplified that was added on January 25, 2026.
+![Choco Brid](img/chocobrid.png)
+
+Choco Brid is a Brid created by @LazerAmplified that was added on January 25, 2026.
 
 # Obtainment
 

@@ -1,6 +1,8 @@
 # Overview
 
-![Wavy Brid](img/wavybrid.png) Wavy Brid is a Brid created by @LazerAmplified that was added on January 25, 2026.
+![Wavy Brid](img/wavybrid.png)
+
+Wavy Brid is a Brid created by @LazerAmplified that was added on January 25, 2026.
 
 # Obtainment
 

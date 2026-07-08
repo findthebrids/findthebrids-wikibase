@@ -1,6 +1,8 @@
 # Overview
 
-![404 Brid](img/404brid.png) 404 Brid is a Brid created by @crLms1n that was added on January 21, 2026.
+![404 Brid](img/404brid.png)
+
+404 Brid is a Brid created by @crLms1n that was added on January 21, 2026.
 
 # Obtainment
 

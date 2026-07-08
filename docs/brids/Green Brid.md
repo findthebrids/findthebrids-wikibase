@@ -1,6 +1,8 @@
 # Overview
 
-![Green Brid](img/greenbrid.png) Green Brid is a Brid created by @crLms1n that was added on January 18, 2026.
+![Green Brid](img/greenbrid.png)
+
+Green Brid is a Brid created by @crLms1n that was added on January 18, 2026.
 
 # Obtainment
 

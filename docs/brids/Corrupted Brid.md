@@ -1,6 +1,8 @@
 # Overview
 
-![Corrupted Brid](img/corrupted brid.png) is a Brid created by @kajussls121 that was added on January 26, 2026.
+![Corrupted Brid](img/corrupted brid.png)
+
+Corrupted Brid is a Brid created by @kajussls121 that was added on January 26, 2026.
 
 # Obtainment
 

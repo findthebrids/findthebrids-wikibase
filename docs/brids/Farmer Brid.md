@@ -1,6 +1,8 @@
 # Overview
 
-![Farmer Brid](img/farmerbrid.png) Farmer Brid is a Brid created by @kajussls121 that was added on January 19, 2026.
+![Farmer Brid](img/farmerbrid.png)
+
+Farmer Brid is a Brid created by @kajussls121 that was added on January 19, 2026.
 
 # Obtainment
 

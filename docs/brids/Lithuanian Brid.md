@@ -1,6 +1,8 @@
 # Overview
 
-![Lithuanian Brid](img/lithuanianbrid.png) Lithuanian Brid is a Brid created by @kajussls121 that was added on January 19, 2026.
+![Lithuanian Brid](img/lithuanianbrid.png)
+
+Lithuanian Brid is a Brid created by @kajussls121 that was added on January 19, 2026.
 
 # Obtainment
 

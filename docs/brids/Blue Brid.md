@@ -1,6 +1,8 @@
 # Overview
 
-![Blue Brid](img/bluebrid.png) Blue Brid is a Brid created by @crLms1n that was added on January 18, 2026.
+![Blue Brid](img/bluebrid.png)
+
+Blue Brid is a Brid created by @crLms1n that was added on January 18, 2026.
 
 # Obtainment
 

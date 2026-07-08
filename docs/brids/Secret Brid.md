@@ -1,6 +1,7 @@
 # Overview
 
-![Secret Brid](img/secretbrid.png) Secret Brid is a Brid created by @crLms1n that was added on January 19, 2026.
+![Secret Brid](img/secretbrid.png)
+Secret Brid is a Brid created by @crLms1n that was added on January 19, 2026.
 
 # Obtainment
 

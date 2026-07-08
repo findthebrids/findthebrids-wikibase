@@ -1,6 +1,8 @@
 # Overview
 
-![Lottery Brid](img/lotterybrid.png) Lottery Brid is a Brid created by @LazerAmplified that was added on January 19, 2026.
+![Lottery Brid](img/lotterybrid.png)
+
+Lottery Brid is a Brid created by @LazerAmplified that was added on January 19, 2026.
 
 # Obtainment
 

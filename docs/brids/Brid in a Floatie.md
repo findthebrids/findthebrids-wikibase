@@ -1,6 +1,8 @@
 # Overview
 
-![Brid in a Floatie](img/bridinafloatie.png) Brid in a Floatie is a Brid created by @Evanprice141 that was added on May 22, 2026, to replace Ocean Brid, a Brid created by @kajussls121 that was added on January 25, 2026.
+![Brid in a Floatie](img/bridinafloatie.png)
+
+Brid in a Floatie is a Brid created by @Evanprice141 that was added on May 22, 2026, to replace Ocean Brid, a Brid created by @kajussls121 that was added on January 25, 2026.
 
 # Obtainment
 

@@ -1,6 +1,8 @@
 # Overview
 
-![Glitch Brid](img/glitchbrid.png) Glitch Brid is a Brid created by @LazerAmplified that was added on January 20, 2026.
+![Glitch Brid](img/glitchbrid.png)
+
+Glitch Brid is a Brid created by @LazerAmplified that was added on January 20, 2026.
 
 # Obtainment
 
