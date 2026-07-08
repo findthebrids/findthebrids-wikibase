@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
 ![Corrupted Brid](img/corrupted brid.png)

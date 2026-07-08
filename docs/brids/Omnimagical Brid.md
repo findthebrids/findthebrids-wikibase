@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
 ![Omnimagical Brid](img/omnimagicalbridrw1.png)

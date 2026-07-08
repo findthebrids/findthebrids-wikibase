@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
 ![Glitch Brid](img/glitchbrid.png)

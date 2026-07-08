@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
 ![R6 Brid](img/r6brid.png)

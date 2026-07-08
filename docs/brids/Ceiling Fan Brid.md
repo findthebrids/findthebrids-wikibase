@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
 ![Ceiling Fan Brid](img/ceilingfanbrid.png)

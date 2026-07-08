@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
 ![Lithuanian Brid](img/lithuanianbrid.png)
