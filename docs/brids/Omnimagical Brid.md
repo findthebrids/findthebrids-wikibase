@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
-![Omnimagical Brid](img/omnimagicalbridrw1.png) Omnimagical Brid is a Brid created by @Evanprice141 that was added on May 30, 2026. (Its original version was added January 18, 2026.)
+![Omnimagical Brid](img/omnimagicalbridrw1.png)
+
+Omnimagical Brid is a Brid created by @Evanprice141 that was added on May 30, 2026. (Its original version was added January 18, 2026.)
 
 # Obtainment
 

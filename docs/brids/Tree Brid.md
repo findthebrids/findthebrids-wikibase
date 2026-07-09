@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
-![Tree Brid](img/treebrid.png) Tree Brid is a Brid created by @crLms1n that was added on January 18, 2026.
+![Tree Brid](img/treebrid.png)
+
+Tree Brid is a Brid created by @crLms1n that was added on January 18, 2026.
 
 # Obtainment
 

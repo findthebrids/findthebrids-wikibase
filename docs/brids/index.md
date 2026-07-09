@@ -16,8 +16,8 @@
 ### ![Corrupted Brid image preview](img/corrupted brid.png) [Corrupted Brid](Corrupted Brid.md)<br>
 ### ![Farmer Brid image preview](img/farmerbrid.png) [Farmer Brid](Farmer Brid.md)<br>
 ### ![Frosty Brid image preview](img/frostybrid.png) [Frosty Brid](Frosty Brid.md)<br>
-### ![Glitch Brid image preview](img/greenbrid.png) [Glitch Brid](Glitch Brid.md)<br>
-### ![Green Brid image preview](img/brid.png) [Green Brid](Green Brid.md)<br>
+### ![Glitch Brid image preview](img/glitchbrid.png) [Glitch Brid](Glitch Brid.md)<br>
+### ![Green Brid image preview](img/greenbrid.png) [Green Brid](Green Brid.md)<br>
 ### ![Helpless Brid image preview](img/helplessbrid.png) [Helpless Brid](Helpless Brid.md)<br>
 ### ![Lithuanian Brid image preview](img/lithuanianbrid.png) [Lithuanian Brid](Lithuanian Brid.md)<br>
 ### ![Lottery Brid image preview](img/lotterybrid.png) [Lottery Brid](Lottery Brid.md)<br>

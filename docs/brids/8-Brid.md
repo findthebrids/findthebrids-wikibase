@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
-![8-Brid](img/8brid.png) 8-Brid is a Brid created by @kajussls121 that was added on January 25, 2026.
+![8-Brid](img/8brid.png)
+
+8-Brid is a Brid created by @kajussls121 that was added on January 25, 2026.
 
 # Obtainment
 

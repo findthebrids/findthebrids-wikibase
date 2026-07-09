@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
-![Frosty Brid](img/frostybrid.png) Frosty Brid is a Brid created by @crLms1n that was added on January 19, 2026.
+![Frosty Brid](img/frostybrid.png)
+
+Frosty Brid is a Brid created by @crLms1n that was added on January 19, 2026.
 
 # Obtainment
 

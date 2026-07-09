@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
-![Candy Cane Brid](img/candycanebrid.png) Candy Cane Brid is a Brid created by @Eninjawolf that was added on January 18, 2026.
+![Candy Cane Brid](img/candycanebrid.png)
+
+Candy Cane Brid is a Brid created by @Eninjawolf that was added on January 18, 2026.
 
 # Obtainment
 

@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
-![R6 Brid](img/r6brid.png) R6 Brid is a Brid created by @crLms1n that was added on January 25, 2026.
+![R6 Brid](img/r6brid.png)
+
+R6 Brid is a Brid created by @crLms1n that was added on January 25, 2026.
 
 # Obtainment
 

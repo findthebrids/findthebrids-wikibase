@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
-![Bee Brid](img/beebrid.png) Bee Brid is a Brid created by @crLms1n that was added on January 23, 2026.
+![Bee Brid](img/beebrid.png)
+
+Bee Brid is a Brid created by @crLms1n that was added on January 23, 2026.
 
 # Obtainment
 

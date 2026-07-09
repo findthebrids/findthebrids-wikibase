@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
-![Helpless Brid](img/helplessbrid.png) Helpless Brid is a Brid created by @crLms1n that was added on January 18, 2026.
+![Helpless Brid](img/helplessbrid.png)
+
+Helpless Brid is a Brid created by @crLms1n that was added on January 18, 2026.
 
 # Obtainment
 

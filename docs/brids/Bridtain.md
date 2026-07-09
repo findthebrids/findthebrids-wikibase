@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
-![Bridtain](img/bridtain.png) Bridtain is a Brid created by @kajussls121 that was added on January 19, 2026.
+![Bridtain](img/bridtain.png)
+
+Bridtain is a Brid created by @kajussls121 that was added on January 19, 2026.
 
 # Obtainment
 

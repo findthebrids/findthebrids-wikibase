@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
-![Brid](img/brid.png) is a Brid created by @crLms1n that was added on January 18, 2026.
+![Brid](img/brid.png)
+
+Brid is a Brid created by @crLms1n that was added on January 18, 2026.
 
 # Obtainment
 

@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
-![Upside-Down Brid](img/upsidedownbrid.png) Upside-Down Brid is a Brid created by @crLms1n that was added on January 18, 2026.
+![Upside-Down Brid](img/upsidedownbrid.png)
+
+Upside-Down Brid is a Brid created by @crLms1n that was added on January 18, 2026.
 
 # Obtainment
 
