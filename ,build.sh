@@ -15,8 +15,11 @@ mkdocs build -d "$site_flr"
 DEST_DIR="github.io"
 shopt -s extglob dotglob
 cd "$DEST_DIR"
-# Remove everything except .git and .gitmodules (if they exist)
-git_contents=$(cat .git)
+if [ -e github.io/.git ]; then
+    git_contents=$(cat .git)
+else
+    git_contents="gitdir: ../.git/modules/github.io" # Incase missing (something got rid of it (like command below))
+fi
 rm -rf -- !( .git)
 echo $git_contents > .git
 cd ..
@@ -26,6 +29,12 @@ cp -r "$site_flr"/. "$DEST_DIR"/
 
 # Deploy to Git
 cd "$DEST_DIR"
+current_branch=$(git symbolic-ref --short HEAD)
+if [ "$current_branch" != "main" ]; then
+    git checkout main
+fi
+
+git checkout main
 git add .
 git commit -m "Deployed site change"
 git push
