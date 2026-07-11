@@ -3,5 +3,9 @@ nav:
   - Home: index.md
   - Game Overview: "Game Overview.md"
   - All Brids: "brids/index.md"
-not_in_nav: "brids/**\nTHEDEPTHSOFTHEEARTH.md" # Exclude entire brids dir from showing up as "not in nav"
+not_in_nav: |
+brids/** # Exclude entire brids dir from showing up as "not in nav"
+THEDEPTHSOFTHEEARTH.md
 theme: darkly
+exclude_docs: |
+brids/partialbrid
