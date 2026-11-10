@@ -1,6 +1,6 @@
 # Overview
 
-![Wireframe Brid](img/wireframe brid.png) Wireframe Brid is a Brid created by @crLms1n that was added on May 30, 2026.
+!\[Wireframe Brid](img/wireframe brid.png) Wireframe Brid is a Brid created by @crLms1n that was added on May 30, 2026.
 
 # Obtainment
 
@@ -8,6 +8,6 @@ Get to Corrupted Brid (see obtainment info on its page), then continue down the 
 
 # Trivia
 
-- This Brid's hint reads '*Somewhere you'd never want to find a window.*' and its description reads '*A ruined mosaic artpiece.*'
-- This Brid was made around 3 months before it was added, with it being uploaded as a decal to the servers on February 2, 2026.
+* This Brid's hint reads '*Continue the \*corrupted\* path.*' and its description reads '*The internals of the game bridified.*'
+* This Brid was made around 3 months before it was added, with it being uploaded as a decal to the servers on February 2, 2026.
 

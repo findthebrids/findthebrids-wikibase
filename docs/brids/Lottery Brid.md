@@ -14,5 +14,5 @@ On a tree in the ice area, there is a code: '*/e lottery*'. Entering this code w
 - This Brid's hint reads '*GAMBLING 🤑🤑*' and its description reads '*I... My condolences.'
 - This Brid is one of the first 25 Brids added to the game, being the thirteenth Brid.
 - Before precise difficulty ratings were removed, this Brid had a difficulty of Impossible (777.77).
-- This Brid is not required to be collected to complete the game. It is the first Brid to do so.
+- This Brid is the first Brid to be added to the Unrequired tab, where you do not have to complete any of these Brids to be considered a completionist.
 
