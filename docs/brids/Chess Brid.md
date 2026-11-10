@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="custom.css">
 # Overview
 
 ![Chess Brid](img/chess brid.png) Chess Brid is a Brid created by @crLms1n that was added on February 1, 2026.

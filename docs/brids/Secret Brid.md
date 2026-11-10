@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../custom.css">
+<link rel="stylesheet" href="custom.css">
 # Overview
 
 ![Secret Brid](img/secretbrid.png)

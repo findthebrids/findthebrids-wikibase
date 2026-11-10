@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../custom.css">
+<link rel="stylesheet" href="custom.css">
 # Overview
 
 ![1brid1brid1brid1](img/1brid1brid1brid1.png)

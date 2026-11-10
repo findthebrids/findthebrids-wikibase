@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="custom.css">
 # Overview
 
 ![Shattered Glass Brid](img/shattered glass brid 2.png) Shattered Glass Brid is a Brid created by @Evanprice141 that was added on April 15, 2026, to replace the original version made by @crLms1n that was added on February 3, 2026.

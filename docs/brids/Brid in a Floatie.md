@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../custom.css">
+<link rel="stylesheet" href="custom.css">
 # Overview
 
 ![Brid in a Floatie](img/bridinafloatie.png)

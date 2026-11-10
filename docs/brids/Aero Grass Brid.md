@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../custom.css">
+<link rel="stylesheet" href="custom.css">
 # Overview
 
 ![Aero Grass Brid](img/aero grass brid.png)

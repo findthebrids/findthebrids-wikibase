@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="custom.css">
 # Overview
 
 ![Fake PNG Brid](img/fake png brid.png) Fake PNG Brid is a Brid created by @kajussls121 that was added on February 1, 2026.
