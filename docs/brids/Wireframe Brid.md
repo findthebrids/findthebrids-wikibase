@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="custom.css">
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
 !\[Wireframe Brid](img/wireframe brid.png) Wireframe Brid is a Brid created by @crLms1n that was added on May 30, 2026.

@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="custom.css">
+<link rel="stylesheet" href="../custom.css">
 # Overview
 
 ![404 Brid](img/404brid.png)
