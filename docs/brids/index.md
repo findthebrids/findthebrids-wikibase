@@ -2,12 +2,18 @@
 
 <style>h3>img{height:38.4px}</style>
 
+### ![1brid1brid1brid1 image preview](img/1brid1brid1brid1.png) [1brid1brid1brid1](1brid1brid1brid1.md)
 ### ![8-Brid image preview](img/8brid.png) [8-Brid](8-Brid.md)<br>
 ### ![404 Brid image preview](img/404brid.png) [404 Brid](404 Brid.md)<br>
+### ![Aero City Brid image preview](img/aero city brid.png) [Aero City Brid](Aero City Brid.md)
+### ![Aero Grass Brid image preview](img/aero grass brid.png) [Aero Grass Brid](Aero Grass Brid.md)
+### ![Aidbrid19 image preview](img/aidbrid19.png) [Aidbrid19](Aidbrid19.md)
 ### ![Bee Brid image preview](img/beebrid.png) [Bee Brid](Bee Brid.md)<br>
 ### ![Blue Brid image preview](img/bluebrid.png) [Blue Brid](Blue Brid.md)<br>
 ### ![Brid image preview](img/brid.png) [Brid](Brid.md)<br>
 ### ![Brid in a Floatie Brid image preview](img/bridinafloatie.png) [Brid in a Floatie](Brid in a Floatie.md)<br>
+### ![Bridkeko image preview](img/bridkeko.png) [Bridkeko](Bridkeko.md)
+### ![Bridrange image preview](img/bridrange.png) [Bridrange](Bridrange.md)
 ### ![Bridtain Brid image preview](img/bridtain.png) [Bridtain](Bridtain.md)<br>
 ### ![Burrowing Brid image preview](img/burrowingbrid.png) [Burrowing Brid](Burrowing Brid.md)<br>
 ### ![Candy Cane Brid image preview](img/candycanebrid.png) [Candy Cane Brid](Candy Cane Brid.md)<br>
@@ -21,6 +27,7 @@
 ### ![Helpless Brid image preview](img/helplessbrid.png) [Helpless Brid](Helpless Brid.md)<br>
 ### ![Lithuanian Brid image preview](img/lithuanianbrid.png) [Lithuanian Brid](Lithuanian Brid.md)<br>
 ### ![Lottery Brid image preview](img/lotterybrid.png) [Lottery Brid](Lottery Brid.md)<br>
+### ![Noclipped Brid image preview](img/noclipped brid.png) [Noclipped Brid](Noclipped Brid.md)
 ### ![Omnimagical Brid image preview](img/omnimagicalbrid.png) [Omnimagical Brid](Omnimagical Brid.md)<br>
 ### ![Pizza Brid image preview](img/pizzabrid.png) [Pizza Brid](Pizza Brid.md)<br>
 ### ![R6 Brid image preview](img/r6brid.png) [R6 Brid](R6 Brid.md)<br>
