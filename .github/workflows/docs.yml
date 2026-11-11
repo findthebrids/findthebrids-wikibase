@@ -1,0 +1,58 @@
+name: Build and deploy docs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - "mkdocs.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          token: ${{ secrets.PAGES_PAT }}   # needs push access to the github.io repo
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - run: pip install -r requirements.txt
+
+      - run: mkdocs build --strict
+
+      - name: Copy site into submodule
+        run: |
+          rsync -a --delete --exclude='.git' site/ github.io/
+
+      - name: Commit and push submodule
+        working-directory: github.io
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout main            # submodules check out detached; use your Pages branch
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No site changes"
+            exit 0
+          fi
+          git commit -m "Deploy docs from ${GITHUB_SHA::7}"
+          git push origin main
+
+      - name: Update submodule pointer in parent repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github.io
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Update github.io submodule"
+          git push
